@@ -1,0 +1,25 @@
+,,classical,local,global
+Remove 1 random gate,Ps,87.7 ± 26.6,98.3 ± 6.6,98.1 ± 7.4
+Remove 1 random gate,∅s,1.4 ± 1.2,1.0 ± 0.2,1.0 ± 0.2
+Remove 1 random gate,∅t,0.4 ± 0.3,0.4 ± 0.3,0.5 ± 0.3
+Remove 2 random gates,Ps,91.8 ± 23.5,98.6 ± 6.0,98.3 ± 6.7
+Remove 2 random gates,∅s,1.3 ± 1.1,1.0 ± 0.1,1.0 ± 0.2
+Remove 2 random gates,∅t,0.4 ± 0.3,0.4 ± 0.3,0.5 ± 0.3
+Remove 3 random gates,Ps,94.2 ± 20.7,98.7 ± 6.3,98.5 ± 6.5
+Remove 3 random gates,∅s,1.2 ± 1.0,1.0 ± 0.1,1.0 ± 0.1
+Remove 3 random gates,∅t,0.4 ± 0.3,0.4 ± 0.3,0.5 ± 0.3
+Add 1 random gate,Ps,82.8 ± 27.3,98.1 ± 7.2,98.1 ± 6.7
+Add 1 random gate,∅s,1.4 ± 1.2,1.0 ± 0.2,1.0 ± 0.1
+Add 1 random gate,∅t,0.4 ± 0.3,0.4 ± 0.3,0.5 ± 0.3
+Add 2 random gate,Ps,86.1 ± 25.2,98.0 ± 7.2,98.0 ± 7.3
+Add 2 random gate,∅s,1.3 ± 1.0,1.0 ± 0.2,1.0 ± 0.2
+Add 2 random gate,∅t,0.4 ± 0.3,0.4 ± 0.3,0.5 ± 0.3
+Add 3 random gate,Ps,88.5 ± 24.2,98.1 ± 7.0,98.3 ± 6.2
+Add 3 random gate,∅s,1.3 ± 1.0,1.0 ± 0.2,1.0 ± 0.2
+Add 3 random gate,∅t,0.4 ± 0.3,0.4 ± 0.3,0.5 ± 0.3
+Add 10 random Toffolis at beginning,Ps,79.2 ± 28.0,98.6 ± 5.5,98.2 ± 6.6
+Add 10 random Toffolis at beginning,∅s,1.5 ± 1.3,1.0 ± 0.1,1.0 ± 0.1
+Add 10 random Toffolis at beginning,∅t,0.4 ± 0.3,0.4 ± 0.3,0.5 ± 0.3
+Add 10 random Toffolis at end,Ps,78.3 ± 27.8,97.8 ± 7.4,98.0 ± 7.1
+Add 10 random Toffolis at end,∅s,1.5 ± 1.2,1.0 ± 0.1,1.0 ± 0.2
+Add 10 random Toffolis at end,∅t,0.4 ± 0.3,0.4 ± 0.3,0.5 ± 0.3
