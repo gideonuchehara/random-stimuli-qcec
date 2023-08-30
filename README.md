@@ -30,12 +30,12 @@ for the task.
 - The experiments.ipynb contains the code for running the experiments and extracting relevant data
 
 ### File Implementations
+- The src folder contains the implementation of the various detection schemes
 - The doc folder contains the report for the reproduced result
-- The experiments.ipynb file is the jupyter notebook that reproduces the paper
+- The experiments.ipynb file in Notebook directory is the jupyter notebook that reproduces the paper
 - The test folder contains files for test cases of some functions used in our implementation
 
 ## References
-
 [1] L. Burgholzer, R. Kueng, and R. Wille, “Random stimuli generation for the verification of quantum circuits,” in Proceedings of the 26th Asia and South Pacific Design Automation Conference, 2021, pp. 767–772.
 
 
